@@ -1,4 +1,3 @@
-cat star.js                                                                                       
 #!/usr/bin/node
 // star wars api using nodejs
 
